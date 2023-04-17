@@ -1,0 +1,74 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "short_description": "A novel about a teenage boy named Holden Caulfield who has been expelled from his prep school.",
+      "detailed_description": "The Catcher in the Rye is a novel by J.D. Salinger published in 1951. The novel's protagonist, Holden Caulfield, is a teenage boy who has been expelled from his prep school. The novel follows Holden over the course of a few days as he wanders the streets of New York City, reflecting on his life and trying to come to terms with the adult world. The novel has been praised for its honesty, its portrayal of adolescence, and its exploration of themes such as alienation and loss."
+    },
+    {
+      "id": 2,
+      "name": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "short_description": "A comic science fiction series that follows the misadventures of an unwitting human and his alien friend.",
+      "detailed_description": "The Hitchhiker's Guide to the Galaxy is a comic science fiction series by Douglas Adams published in 1979. The series follows the misadventures of an unwitting human named Arthur Dent and his alien friend Ford Prefect as they travel through space and time. The series has been praised for its humor, its creativity, and its exploration of themes such as the meaning of life."
+    },
+    {
+      "id": 3,
+      "name": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "short_description": "An epic fantasy novel that follows the journey of a hobbit named Frodo Baggins to destroy a powerful ring.",
+      "detailed_description": "The Lord of the Rings is an epic fantasy novel by J.R.R. Tolkien published in 1954. The novel follows the journey of a hobbit named Frodo Baggins as he and a fellowship of others set out to destroy a powerful ring. The novel has been praised for its world-building, its themes of heroism and sacrifice, and its influence on the fantasy genre."
+    },
+    {
+      "id": 4,
+      "name": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "short_description": "A novel about racial injustice and the loss of innocence in a small Southern town.",
+      "detailed_description": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. The novel is set in the 1930s in a small Southern town and follows the story of a young girl named Scout as she learns about racial injustice and the loss of innocence. The novel has been praised for its portrayal of race relations, its exploration of themes such as courage and compassion, and its influence on American literature."
+    },
+    {
+      "id": 5,
+      "name": "1984",
+      "author": "George Orwell",
+      "short_description": "A dystopian novel about a totalitarian society in which individuality and free will are suppressed.",
+      "detailed_description": "1984 is a dystopian novel by George Orwell published in 1949. The novel is set in a totalitarian society in which individuality and free will are suppressed, and follows the story of a man named Winston Smith who rebels against the oppressive regime. The novel has been praised for its portrayal of the dangers of totalitarianism, its exploration of themes such as the power of language and the manipulation of truth, and its influence on popular culture."
+    },
+    {
+      "id": 6,
+      "name": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "short_description": "A novel about the decadence and excess of the Jazz Age in America.",
+      "detailed_description": "The Great Gatsby is a novel by F. Scott Fitzgerald published in 1925. The novel is set in the 1920s in America and follows the story of a man named Jay Gatsby and his pursuit of the American Dream. The novel has been praised for its portrayal of the decadence and excess of the Jazz Age, its exploration of themes such as the corruption of the American Dream and the power of illusion, and its influence on American literature."
+    },
+    {
+      "id": 7,
+      "name": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "short_description": "A novel about love and marriage in Georgian England.",
+      "detailed_description": "Pride and Prejudice is a novel by Jane Austen published in 1813. The novel is set in Georgian England and follows the story of Elizabeth Bennet and her relationship with the proud Mr. Darcy. The novel has been praised for its witty dialogue, its exploration of themes such as love and social class, and its enduring popularity."
+    },
+    {
+      "id": 8,
+      "name": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "short_description": "A novel about the corrupting influence of beauty and pleasure.",
+      "detailed_description": "The Picture of Dorian Gray is a novel by Oscar Wilde published in 1890. The novel follows the story of a young man named Dorian Gray who becomes corrupted by the pursuit of beauty and pleasure. The novel has been praised for its exploration of themes such as the nature of art, the corrupting influence of beauty, and the dangers of excess."
+    },
+    {
+      "id": 9,
+      "name": "The Color Purple",
+      "author": "Alice Walker",
+      "short_description": "A novel about the struggles and resilience of black women in the American South.",
+      "detailed_description": "The Color Purple is a novel by Alice Walker published in 1982. The novel is set in the American South in the early 20th century and follows the story of a young black woman named Celie as she navigates the challenges of life as a woman of color. The novel has been praised for its portrayal of the struggles and resilience of black women, its exploration of themes such as race, gender, and sexuality, and its influence on American literature."
+    },
+    {
+      "id": 10,
+      "name": "One Hundred Years of Solitude",
+      "author": "Gabriel Garcia Marquez",
+      "short_description": "A novel about the history of a mythical town and the Buendia family.",
+      "detailed_description": "One Hundred Years of Solitude is a novel by Gabriel Garcia Marquez published in 1967. The novel is set in the mythical town of Macondo and follows the story of the Buendia family over the course of several generations. The novel has been praised for its magical realism, its exploration of themes such as the cyclical nature of time and the nature of human memory, and its influence on Latin American literature."
+    }
+  ]
+}
